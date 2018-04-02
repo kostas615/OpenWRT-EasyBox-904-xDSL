@@ -1,4 +1,4 @@
-# OpenWRT EasyBox 904 xDSL Build Guide
+# OpenWRT EasyBox 904 xDSL Guide
 
 ## Installing LEDE
 
